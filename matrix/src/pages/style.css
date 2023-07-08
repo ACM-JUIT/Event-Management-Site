@@ -1,0 +1,90 @@
+.hey{
+    background-color: gray;
+    
+}
+.hello{
+    margin-left:420px;
+    margin-right: 420px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.okay{
+    font-size: 40px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+}
+.j{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 15px;
+    border-color: bisque;
+    margin-left: 300px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+.button{
+    background-color:bisque;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+}
+.carda{
+    background:rgb(253, 232, 235);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.cardb{
+    background: #ebf6dac6;
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.cardc{
+    background: rgb(219, 230, 238);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+
+.card-image{
+    background-color: black;
+    height: 150px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card2{
+    background-image: url("https://digitalfinch.co.uk/wp-content/uploads/2021/08/5-Considerations-for-your-Animated-Technology-Video.jpg");
+}
+.card1{
+    background-image: url("https://www.it.miami.edu/_assets/images/about-umit-new-small.jpg");
+}
+.card3{
+background-image: url("https://www.mobilevillage.com/wp-content/uploads/2020/06/2020-tech-events-calendar.jpg");
+}
+
+.y{
+    font-size: 15px;
+    padding: 10px;
+}
+.l{
+    background-color: black;
+    font-size: 20px;
+}
+.i{
+    margin-left: 200px;
+    margin-right: 200px;
+}
