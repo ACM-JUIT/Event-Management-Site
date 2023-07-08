@@ -88,6 +88,7 @@ background-image: url("https://www.mobilevillage.com/wp-content/uploads/2020/06/
     margin-left: 200px;
     margin-right: 200px;
 }
+<<<<<<< HEAD
 form{
    margin: 60px;
    border-color: black;
@@ -137,3 +138,73 @@ input[type=button] {
     margin: 4px 2px;
     cursor: pointer;
   }
+=======
+
+.cont{
+    
+   float: right;
+    
+}
+.profilea{
+    background:rgb(253, 232, 235);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.profileb{
+    background: #ebf6dac6;
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.profilec{
+    background: rgb(219, 230, 238);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+
+.profile-image{
+    background-color: black;
+    height: 150px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+.p{
+    padding-left: 20px;
+}
+.TEXT{
+    padding-left: 20px;
+}
+
+.profile2{
+    background-image: url("https://cdn.dribbble.com/users/1731254/screenshots/15807927/media/ff4c032ae5fb7d05835cda28e390b287.png?resize=400x0");
+}
+.profile3{
+    background-image: url("https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/09/coderpad-blogspot-addeventlistener-adjustment-1024x683-1.png");
+}
+.profile1{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJELUYLOnu534widVgFY8GpLwLq_K2MifPBA&usqp=CAU");
+}
+.style{
+    
+    background-color: black;
+    padding: 6px;
+    
+    color: white;
+    border-radius: 5px;
+    text-decoration:wavy;
+    
+}
+a:hover{
+    color:black;
+    background-color:rgb(221, 156, 110);
+}
+.h{
+    background-color:rgb(249, 246, 243);
+    padding: 10px;
+}
+>>>>>>> 3ee5b659164265e4d04f09aa4dd37011d3a4eb2b
