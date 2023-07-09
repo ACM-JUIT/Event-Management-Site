@@ -156,3 +156,7 @@ a:hover{
     background-color:rgb(249, 246, 243);
     padding: 10px;
 }
+.head{
+    margin-left: 200px;
+    padding-left: 200px;
+}
