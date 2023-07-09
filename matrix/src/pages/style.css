@@ -88,57 +88,6 @@ background-image: url("https://www.mobilevillage.com/wp-content/uploads/2020/06/
     margin-left: 200px;
     margin-right: 200px;
 }
-<<<<<<< HEAD
-form{
-   margin: 60px;
-   border-color: black;
-}
-#form-head{
-    text-align: center;
-
-}
-.title-form{
- font-size: 25px;
-padding: 5px;
-}
-#title{
-    size: 50px;
-}
-/* div{
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    margin-right: 150px;
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-bottom: 20px;
-    
-} */
-input[type=text] {
-    width: 100%;
-    background-color: #fafafa;
-    color: rgb(0, 0, 0);
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: black;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 35px;
-}
-span{
-    margin-top: 20px;
-    padding: 70px;
-    border-color: black;
-}
-input[type=button] {
-    background-color: #04AA6D;
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-=======
 
 .cont{
     
@@ -207,4 +156,7 @@ a:hover{
     background-color:rgb(249, 246, 243);
     padding: 10px;
 }
->>>>>>> 3ee5b659164265e4d04f09aa4dd37011d3a4eb2b
+.head{
+    margin-left: 200px;
+    padding-left: 200px;
+}
