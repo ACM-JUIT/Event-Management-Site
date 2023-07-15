@@ -15,15 +15,18 @@ class Profile extends React.Component{
               <h1> <img src="https://cdn.icon-icons.com/icons2/2643/PNG/512/female_woman_avatar_people_person_white_tone_icon_159370.png" height="300px" width="300px" image-align="center" /></h1>
               <soya><br />
                 <e className="wow">Burk Macklin</e>
-                <hr color="black" />
+                <hr color="black"/>
                 <a>
-                  <p className="hey78"> <b className="lol"> User Name-</b> Burk#abcuiuio12</p>
-                  <p className="hey78"> <b className="lol"> First Name-</b> Burk</p>
-                  <p className="hey78"> <b className="lol"> Last Name-</b> Macklin</p>
-                  <p className="hey78">  <b className="lol"> Roll No.-</b> 2210XXXX</p>
-                  <p className="hey78">  <b className="lol"> Email-</b> abc@gmail.com</p>
-                  <p className="hey78"> <b className="lol"> Phone No.-</b> 123456789</p>
-                  <p className="hey78"> <b className="lol"> Address-</b> Street 67,ABC road</p>
+                  
+                
+                  <p className="hey78"> <b className="lol"> Username-</b><input type="text" placeholder="Username" /></p>
+                  <p className="hey78"> <b className="lol"> First Name-</b><input type="text" placeholder="First Name" /></p>
+                  <p className="hey78"> <b className="lol"> Last Name-</b><input type="text" placeholder="Last Name" /></p>
+                  <p className="hey78"> <b className="lol"> Roll no.-</b><input type="number" placeholder="Roll no." /></p>
+                  <p className="hey78"> <b className="lol"> E-mail-</b><input type="e-mail" placeholder="E-mail" /></p>
+                  <p className="hey78"> <b className="lol"> Phone No.-</b><input type="number" placeholder="Phone No." /></p>
+
+                 
                 </a>
               </soya>
             </div>
