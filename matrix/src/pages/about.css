@@ -1,0 +1,96 @@
+body { 
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-color:white;
+    height:1000px;
+    
+} 
+div{
+    background-color: rgba(255, 255, 255, 0);
+    color:black;
+    font-size:medium;
+    font-style:oblique;
+    font-display:initial;
+    /* text-align: center; */
+}
+.heading{
+    background-color:grey; 
+     }
+
+
+.content {
+    margin: 20px;
+}
+.centered {
+    position: absolute;
+    top: 60%;
+    left:52%;
+    transform: translate(-50%, -50%);
+    font-size:x-large;
+    font-family:"Viner Hand ITC";
+    color:darkslategrey;
+  }
+  .sqs-html-content {
+    white-space:pre-wrap;
+    font-family:Calibri Light;
+    margin-left: 18%;
+    margin-right: 18%;
+  }
+
+  .sqs-html-content2{
+    text-align:center;
+    white-space:pre-wrap;
+    font-family:Bradley hand ITC;
+    color:blueviolet;
+  }
+
+  .centered2{
+    position: absolute;
+    top: 240%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-size:x-large;
+    font-family:"Viner Hand ITC";
+    color:black;
+  }
+  .sqs-html-content3{
+    text-align:center;
+    white-space:pre-line;
+    font-family:Calibri Light;
+    margin-left: 16%;
+    margin-right: 16%;
+  }
+      .contain{
+
+        display: flex;
+        justify-content: center;
+    }
+    .cardaa{
+        background:rgb(245, 214, 218);
+        width: 270px;
+        height: 470px;
+        margin: 40px;
+        border-radius: 15px;
+    }
+    .cardbb{
+        background: #c9e79cc6;
+        width: 270px;
+        height: 470px;
+        margin: 40px;
+        border-radius: 15px;
+    }
+    
+    .card-image1{
+        background-color: black;
+        height: 150px;
+        background-size: cover;
+        border-radius: 15px 15px 0 0;
+    }
+    
+    .card21{
+        background-image: url("https://institute.careerguide.com/wp-content/uploads/2020/10/leadership-all-levels.jpg");
+    }
+    .card11{
+        background-image: url("https://images.squarespace-cdn.com/content/v1/621290732a4e7869b46bdbd4/1645563352002-MGZYNSGDPRH13JHPOU11/image-asset.jpeg");
+    }   
+

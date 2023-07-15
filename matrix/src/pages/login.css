@@ -1,0 +1,76 @@
+body {
+    background: #1e06062e;
+    background-size: cover;
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .Bb {
+    margin: 0 auto;
+    width: 85%;
+    background: #FFFFFF;
+    display: flex;
+    box-shadow: 0 0 20px 6px #090b6f85;
+  }
+  .Bb .L{
+    color: #fefefe;
+    width:65%;
+    background-size:650px;
+    background-repeat: no-repeat;
+    background-image:url("https://image.freepik.com/free-vector/gift-shopping-checklist-girl-cartoon-character-buying-presents-online-e-commerce-gift-card-promotion-birthday-anniversary-bonus_335657-77.jpg");
+   
+  }
+  .Bb .R {
+    padding: 40px;
+    /* background-image: url("C:\Users\bunty\Downloads\59380306-988D-47B1-9092-FF40B025A01B-removebg-preview.png"); */
+    background-size: 110px;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+  
+  }
+  
+  .Bb .R h5 {
+    font-size: 5vmax;
+    font-color: rgb(74, 74, 74);
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 0;
+  }
+  .Bb .R p {
+    font-size: 22px;
+    color: #575757;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .Bb .R input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 25px;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    border: none;
+    border-bottom: 2px solid #8c8c8c;
+  }
+  
+  .Bb .R button {
+  float:right;
+    color: #fff;
+    font-size: 16px;
+    padding: 12px 35px;
+    border-radius: 50px;
+    font-family: "Times New Roman", Times, serif;
+    display: inline-block;
+    border: 0;
+    box-shadow: 0px 4px 20px 0px #a66fffa6;
+    background-image: linear-gradient(135deg, #70e1f5 10%, #ac54ff 100%);
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

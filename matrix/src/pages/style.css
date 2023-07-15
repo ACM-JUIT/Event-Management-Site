@@ -1,5 +1,59 @@
 .hey{
-    background-color: gray;
+  height: 20px;  
+  width: 20px;
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+
+}
+.nav{
+    
+    background-color:beige;
+    border-color:blanchedalmond;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 15px;
+    text-decoration: none;
+    
+    
+}
+.logo{
+    float:left;
+    margin: 0;
+    
+}
+.active{
+    color:red;
+    
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.he12{
+    background-color: black;
+    color: antiquewhite;
+    padding: 20px;
+    text-decoration: none;
+    height: 50px;
+}
+
+.imgtext{
+    top:30%;
+    left:52%;
+    right:10%;
+    position: absolute;
+    font-size: 60px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+.imgtext2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:absolute;
+    top: 165%;
+    font-size: 50px;
+    color:black;
+    left: 20%;
+    right: 20%;
     
 }
 .hello{
@@ -15,14 +69,15 @@
     margin-left: 500px;
     margin-right: 500px;
     margin-bottom: 100px;
+    color: rgba(255, 0, 191, 0.803);
 }
 .j{
-    background-color: black;
+    background-color:black;
     color: white;
     padding: 8px;
     border-radius: 15px;
     border-color: bisque;
-    margin-left: 300px;
+    /* margin-left: 200px; */
     margin-bottom: 25px;
     cursor: pointer;
 }
@@ -39,24 +94,27 @@
 }
 .carda{
     background:rgb(253, 232, 235);
-    width: 270px;
+    width: 300px;
     height: 400px;
     margin: 40px;
     border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .cardb{
     background: #ebf6dac6;
-    width: 270px;
+    width: 300px;
     height: 400px;
     margin: 40px;
     border-radius: 15px;
+     font-family: Arial, Helvetica, sans-serif;
 }
 .cardc{
     background: rgb(219, 230, 238);
-    width: 270px;
+    width: 300px;
     height: 400px;
     margin: 40px;
     border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .card-image{
@@ -83,17 +141,14 @@ background-image: url("https://www.mobilevillage.com/wp-content/uploads/2020/06/
 .l{
     background-color: black;
     font-size: 20px;
+    color: white;
 }
 .i{
     margin-left: 200px;
     margin-right: 200px;
 }
 
-.cont{
-    
-   float: right;
-    
-}
+
 .profilea{
     background:rgb(253, 232, 235);
     width: 270px;

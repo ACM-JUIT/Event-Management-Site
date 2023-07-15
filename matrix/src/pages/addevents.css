@@ -1,0 +1,224 @@
+
+.hello{
+    margin-left:420px;
+    margin-right: 420px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.okay{
+    font-size: 40px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+}
+.j{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 15px;
+    border-color: bisque;
+    margin-left: 300px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+.button{
+    background-color:bisque;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+}
+.carda{
+    background:rgb(253, 232, 235);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.cardb{
+    background: #ebf6dac6;
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.cardc{
+    background: rgb(219, 230, 238);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+
+.card-image{
+    background-color: black;
+    height: 150px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.card2{
+    background-image: url("https://digitalfinch.co.uk/wp-content/uploads/2021/08/5-Considerations-for-your-Animated-Technology-Video.jpg");
+}
+.card1{
+    background-image: url("https://www.it.miami.edu/_assets/images/about-umit-new-small.jpg");
+}
+.card3{
+background-image: url("https://www.mobilevillage.com/wp-content/uploads/2020/06/2020-tech-events-calendar.jpg");
+}
+
+.y{
+    font-size: 15px;
+    padding: 10px;
+}
+.l{
+    background-color: black;
+    font-size: 20px;
+}
+.i{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+  
+  .event-form {
+    width: 750px;
+    margin-left: 380px;
+    margin-top: 50px;
+
+    padding: 40px;
+    justify-content: center;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    background-color: #e5c2c2;
+    
+  }
+ 
+
+  .event-form label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 25px;
+    margin:6px ;
+    color: rgb(49, 44, 44);
+    
+  }
+
+  .event-form input {
+    width: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 6px;
+    background-color: rgba(255, 247, 247, 0.89);
+
+   
+  }
+  .event-form textarea {
+    width: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 6px;
+    background-color: rgba(255, 247, 247, 0.89);
+
+   
+  }
+
+  .event-form button {
+    background-color: #f3c68e;
+    color: rgb(54, 34, 34);
+    padding: 20px;
+    border: 2px;
+    border: 1px solid #ffffff;
+    margin: 6px;
+    font-size: 20px;
+    
+  }
+  button:hover{
+    color: rgb(253, 253, 253);
+    cursor: pointer;
+    background-color: #000000;
+  }
+  #heading-12{
+    text-align: center;
+    margin-top: 50px;
+  }
+  #heading{
+    color: rgb(50, 23, 23);
+    margin-bottom: 10px;
+  }
+ 
+.cont{
+    justify-content: center;
+    display: flex;
+    
+    
+}
+.profilea{
+    background:rgb(253, 232, 235);
+    width: 270px;
+    height: 400px;
+    margin : 40px;
+    border-radius: 15px;
+}
+.profileb{
+    background: #ebf6dac6;
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+.profilec{
+    background: rgb(219, 230, 238);
+    width: 270px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 15px;
+}
+
+.profile-image{
+    background-color: black;
+    height: 150px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+.p{
+    padding-left: 20px;
+}
+.TEXT{
+    padding-left: 20px;
+}
+
+.profile2{
+    background-image: url("https://cdn.dribbble.com/users/1731254/screenshots/15807927/media/ff4c032ae5fb7d05835cda28e390b287.png?resize=400x0");
+}
+.profile3{
+    background-image: url("https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/09/coderpad-blogspot-addeventlistener-adjustment-1024x683-1.png");
+}
+.profile1{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJELUYLOnu534widVgFY8GpLwLq_K2MifPBA&usqp=CAU");
+}
+.style{
+    
+    background-color: black;
+    padding: 6px;
+    
+    color: white;
+    border-radius: 5px;
+    text-decoration:wavy;
+    
+}
+
+a:hover{
+    color:black;
+    background-color:rgb(221, 156, 110);
+}
+.h{
+    background-color:rgb(249, 246, 243);
+    padding: 10px;
+}
