@@ -6,7 +6,7 @@ body {
  .Boo {
    margin: 0 auto;
        border-style: solid;
-  border-color:purple;
+  border-color:rgb(54, 0, 54);
    width: 85%;
 
    background-repeat:repeat;
@@ -67,7 +67,7 @@ background-color: rgb(242, 253, 255);
    font-size: x-large;
    text-align:left;
    overflow: hidden;
-   color: rgb(73, 0, 0); 
+   color: rgb(65, 0, 0); 
    
  }
  .Boo.aloo.N{

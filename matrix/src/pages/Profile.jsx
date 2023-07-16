@@ -52,7 +52,7 @@ class Profile extends React.Component{
     <br /> <br />
     REL-EVENT MANAGEMENT, JUIT, WAKHNAGHAT, DISTRICT SOLAN, HIMACHAL PRADESH     <br />    
     
-      INFO@RELEVENT.COM  <br /> <br /> <br />
+       <br /> <br /> <br />
 
  </div>
 
