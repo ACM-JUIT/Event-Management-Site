@@ -25,7 +25,7 @@ const About = () => {
                       unwavering attention to detail set us apart as a trusted partner in creating unforgettable moments.</p><p>We invite you to explore our site and discover the range
                           of services we offer. Our testimonials speak for themselves, showcasing the satisfaction of our clients and the success of the
                           events we have organized.Your vision is our inspiration, and we are dedicated to making it a reality.Welcome to&nbsp;
-                          &nbsp;&nbsp;<b> REL-EVENT:</b> Rejoice, Engage, and Leave Everlasting Experiences.</p></h2>
+                          <b>REL-EVENT:</b> Rejoice, Engage, and Leave Everlasting Experiences.</p></h2>
           </div>
           <br/><br/><br/><br/>
           <div className="sqs-html-content2">

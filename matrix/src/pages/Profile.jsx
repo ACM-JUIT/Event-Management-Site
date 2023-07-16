@@ -19,12 +19,12 @@ class Profile extends React.Component{
                 <a>
                   
                 
-                  <p className="hey78"> <b className="lol"> Username-</b><input type="text" placeholder="Username" /></p>
-                  <p className="hey78"> <b className="lol"> First Name-</b><input type="text" placeholder="First Name" /></p>
-                  <p className="hey78"> <b className="lol"> Last Name-</b><input type="text" placeholder="Last Name" /></p>
-                  <p className="hey78"> <b className="lol"> Roll no.-</b><input type="number" placeholder="Roll no." /></p>
-                  <p className="hey78"> <b className="lol"> E-mail-</b><input type="e-mail" placeholder="E-mail" /></p>
-                  <p className="hey78"> <b className="lol"> Phone No.-</b><input type="number" placeholder="Phone No." /></p>
+                  <p className="hey78"> <b className="lol"> Username-&nbsp;</b>&nbsp;&nbsp;<input type="text" placeholder="Burk#abcuiuio123" /></p>
+                  <p className="hey78"> <b className="lol"> First Name-&nbsp;</b>&nbsp;<input type="text" placeholder="Burk" /></p>
+                  <p className="hey78"> <b className="lol"> Last Name-&nbsp;</b>&nbsp;&nbsp;<input type="text" placeholder="Macklin" /></p>
+                  <p className="hey78"> <b className="lol"> Roll no.-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" placeholder="2210XXXX" /></p>
+                  <p className="hey78"> <b className="lol"> E-mail-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="e-mail" placeholder="abc@gmail.com" /></p>
+                  <p className="hey78"> <b className="lol"> Phone No.-&nbsp;</b>&nbsp;&nbsp;<input type="number" placeholder="12345XXXXX" /></p>
 
                  
                 </a>
@@ -33,18 +33,23 @@ class Profile extends React.Component{
           </div>
           <div className="aloo">
             <br />
-            <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Events</h1>
+            <h1 class="imp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Events</h1>
             <section className="container23">
               <div className="cardx">
                 <div className="card-image card5" />
                 <h1 align="center">GAMING NIGHT</h1>
-                <p className="yk">Unleash your inner gamer and join us for an electrifying Gaming Night experience!
-                  Calling all gamers!Join us for an exciting night where gamers unite, and friendships
-                  are forged amidst an atmosphere buzzing with excitement.
-                <p><b>DATE:</b>8th July-10th July</p>
-                <p><b>TIME:</b>10:00pm-12.00am</p></p>
-                <p />
+              
+                <p><b>&nbsp;&nbsp;DATE:</b>8th July-10th July</p>
+                <p><b>&nbsp;&nbsp;TIME:</b>10:00pm-12.00am</p>
+                <p><b>&nbsp;&nbsp;NO. OF REGISTRATIONS:</b>114</p>
+                <p><b>&nbsp;&nbsp;CHECK-INS:</b>102</p>
+                <p><b>&nbsp;&nbsp;AMOUNT PER PERSON:</b>₹60</p>
+                <p><b>&nbsp;&nbsp;COLLECTED AMOUNT:</b>₹6800</p>
+                <p><b>&nbsp;&nbsp;NO. OF FEEDBACKS:</b>71</p>
+                <p><b>&nbsp;&nbsp;MOST PARTICIPATION:</b>XYZ GAME</p>
+                <p><b>&nbsp;&nbsp;LEAST PARTICIPATION:</b>ABC GAME</p>
+                
               </div>
             </section></div>
         </div>

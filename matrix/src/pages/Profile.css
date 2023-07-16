@@ -27,7 +27,7 @@ body {
    width:60%;
    overflow: hidden;
      background-repeat: repeat;
-background-image:url("https://st2.depositphotos.com/3350865/5423/v/950/depositphotos_54231029-stock-illustration-light-blue-polygon-geometric-abstract.jpg");
+background-image:url("https://cdn.wallpapersafari.com/96/79/JQ2A9I.jpg");
    align-items: center;
    
   
@@ -59,7 +59,7 @@ background-image:url("https://st2.depositphotos.com/3350865/5423/v/950/depositph
  .Boo .aloo {
    margin-top: 0px;
 
-background-color: rgb(242, 253, 255);
+background-color: white;
 
    margin-right: 0px;
    margin-left: 0px;
@@ -107,23 +107,25 @@ background-color: rgb(242, 253, 255);
  
 }
 .hey78 input{ 
-  font-style: italic;
-  width: 60%;
+  font-style:normal;
+  width: 40%;
   padding: 10px;
   margin-top: 15px;
   font-size: 30px;
-  font-family: "Times New Roman", Times, serif;
+  font-family:Arial, Helvetica, sans-serif;
   border: none;
   border-bottom: 2px solid #575757;
   color: #000000;
   background-color:rgba(0, 0, 0, 0);
 
+
  
 }
 .lol{
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
  color: rgb(58, 0, 0);
- font-size: 40px;
+ font-size: 30px;
+ font-family:Arial, Helvetica, sans-serif
   
 }
 .yk{
@@ -135,4 +137,7 @@ background-color: rgb(242, 253, 255);
 ::placeholder { 
   color: rgb(39, 39, 39);
  
+}
+.imp{
+  font-family: 'Calibri Dark';
 }
