@@ -56,7 +56,7 @@ background-image:url("https://cdn.wallpapersafari.com/96/79/JQ2A9I.jpg");
   text-align: justify;
    font-size: 30px;
  }
- .Boo .aloo {
+ .Boo .alo {
    margin-top: 0px;
 
 background-color: white;
@@ -70,16 +70,16 @@ background-color: white;
    color: rgb(65, 0, 0); 
    
  }
- .Boo.aloo.N{
+ .Boo.alo.N{
 
   margin-left: 60%;
   text-align:center;
  }
 
-.left{
+/* .left{
   /* border-style: solid;
-  border-color:purple; */
-}
+  border-color:purple; 
+} */
 .container23{
 
   display: flex;
