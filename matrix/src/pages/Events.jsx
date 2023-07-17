@@ -10,7 +10,7 @@ const Events = () =>{
   return (
        <>
     <Navbar/>
-    <br />
+    
     <img src="https://images.unsplash.com/photo-1522836924445-4478bdeb860c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80"  height="500px" width="1520px"/>
     <div className="imgtext">
       <p align="right"><b>Event planning is our passion!!</b>
@@ -60,7 +60,8 @@ It was a 6-hour long online quiz competition and was a race against time in whic
   
 
 <h1 align="CENTER">WANT TO ADD YOUR OWN EVENT?</h1>
-<button className="j"><Link to="/addevents">+ ADD EVENT</Link></button>
+<button className='j'>
+<Link to="/addevents"><a> ADD EVENT</a></Link></button>
 </div>
 <br /> <br /> <br /> <br />
 

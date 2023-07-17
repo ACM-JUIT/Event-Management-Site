@@ -55,7 +55,8 @@ class Profile extends React.Component{
         </div>
         <br /> <div className="l" align="center" >
     <br /> <br />
-    REL-EVENT MANAGEMENT, JUIT, WAKHNAGHAT, DISTRICT SOLAN, HIMACHAL PRADESH     <br />    
+    REL-EVENT MANAGEMENT, JUIT, WAKHNAGHAT, DISTRICT SOLAN, HIMACHAL PRADESH     <br />   
+    INFO@RELEVENT.COM  
     
        <br /> <br /> <br />
 

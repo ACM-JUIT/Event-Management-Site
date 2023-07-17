@@ -1,29 +1,5 @@
-nav {
-    background-color: #f6ff90;
-    color: #000000;
-    padding: 50px;
-    text-align: right;
 
-  }
   
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  nav ul li {
-    display: inline-block;
-    margin: 0 20px;
-  }
-  
-  nav ul li a {
-    font-size: x-large;
-    text-decoration: none;
-    color: #000000;
-    font-family: 'Marvel', sans-serif;
-    margin: 20px;
-  }
   
   nav a img {
     height: auto;
@@ -109,26 +85,26 @@ label{
 footimg{
   object-fit: fill;
 }
-.container{
+.containerser{
 
   display: flex;
   justify-content: center;
 }
-.carda{
+.cardaser{
   background:rgb(253, 232, 235);
   width: 300px;
   height: 450px;
   margin: 50px;
   border-radius: 20px;
 }
-.cardb{
+.cardbser{
   background: #ebf6dac6;
   width: 300px;
   height: 450px;
   margin: 50px;
   border-radius: 20px;
 }
-.cardc{
+.cardcser{
   background: rgb(175, 206, 228);
   width: 300px;
   height: 450px;
@@ -157,20 +133,20 @@ footimg{
   border-radius: 20px;
 }
 
-.card-image{
+.card-imageser{
   background-color: black;
   height: 200px;
   background-size: cover;
   border-radius: 15px 15px 0 0;
 }
 
-.card2{
+.card2ser{
   background-image: url("https://digitalfinch.co.uk/wp-content/uploads/2021/08/5-Considerations-for-your-Animated-Technology-Video.jpg");
 }
-.card1{
+.card1ser{
   background-image: url("https://th.bing.com/th/id/R.9ea18200dc5dfe6746a68ab3a3239ac0?rik=ehrX9GZNU5aGYg&riu=http%3a%2f%2faviondubai.com%2fwp-content%2fuploads%2f2020%2f07%2fvenue-selection-side-pic.jpg&ehk=VcjuXsb7%2brm6qUZr%2f7P42zEJb7%2fEjfOJtVRlXjVXU5U%3d&risl=&pid=ImgRaw&r=0");
 }
-.card3{
+.card3ser{
 background-image: url("https://th.bing.com/th/id/OIP.GGMtMrS8pzYQY-cKHw87OgHaDt?w=321&h=175&c=7&r=0&o=5&dpr=1.3&pid=1.7");
 }
 .card4{

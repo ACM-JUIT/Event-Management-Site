@@ -6,22 +6,19 @@ import { NavLink } from "react-router-dom";
 const navbar = () => {
   return (
     <>
-    
-      <div className='he12' align='right'>
-      <div ><img src='https://zenprospect-production.s3.amazonaws.com/uploads/pictures/63cdf4b1faaf18000190a9df/picture' width="70px" height="100%"className='logo'></img></div>
-        &nbsp; &nbsp; &nbsp;
-         <button className="nav"><NavLink to="/" exact activeClassName="hey" >HOME</NavLink></button>&nbsp; &nbsp; &nbsp;
-         <button className="nav"><NavLink to = "/events" exact activeClassName="hey">EVENTS</NavLink></button>
-        &nbsp; &nbsp; &nbsp;
-        <button className="nav"><NavLink to = "/services" exact activeClassName="hey">SERVICES</NavLink></button>
-        &nbsp; &nbsp; &nbsp;
-        <button className="nav"><NavLink to = "/login" exact activeClassName="hey">LOGIN</NavLink></button>
-        &nbsp; &nbsp; &nbsp; 
-        <button className="nav"> <NavLink to = "/profile" exact activeClassName="hey">PROFILE</NavLink></button>
-        &nbsp; &nbsp; &nbsp; &nbsp;
-        </div>
         
-        
+        <nav>
+          <div><img src="https://yt3.googleusercontent.com/i029KiwZu6fBVs9TKufyKu6ye0xFJ0zsXCQ_00oe6NOKW4ws_8cWoNPVuawfsKahFnjZM60B4A=s900-c-k-c0x00ffffff-no-rj"  height="80px" width="150px"/></div>
+          <div>
+            <ul id='navbar'>
+              <li><NavLink to="/" exact activeclassName="active"><a>HOME</a></NavLink></li>
+              <li><NavLink to="/events">EVENTS</NavLink></li>
+              <li><NavLink to="/services">SERVICES</NavLink></li>
+              <li><NavLink to="/login">LOGIN</NavLink></li>
+              <li><NavLink to="/profile">PROFILE</NavLink></li>
+            </ul>
+          </div>
+        </nav>
         
       
       
