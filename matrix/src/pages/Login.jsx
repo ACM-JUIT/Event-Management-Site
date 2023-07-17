@@ -4,7 +4,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Navbar from './Navbar';
 
-
 class Login extends React.Component{
     render(){
         return(
@@ -32,7 +31,7 @@ class Login extends React.Component{
        <a><Link to="/Signup">Create your account</Link></a> 
          
          </p>
-      <button><Link to="/Signup">Login</Link></button>
+      <button><Link to="/Events">Login</Link></button>
     </div>
   </div>
   <br /> <br />

@@ -12,7 +12,7 @@ const About = () => {
 
       
       <img src="https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
-          alt="Rel-Event" height="600px" width="1520px"/>
+          alt="Rel-Event" height="600px" width="1520px" />
 
          <br/><br/><br/><br/><br/>
           <div className="sqs-html-content">
@@ -25,7 +25,7 @@ const About = () => {
                       unwavering attention to detail set us apart as a trusted partner in creating unforgettable moments.</p><p>We invite you to explore our site and discover the range
                           of services we offer. Our testimonials speak for themselves, showcasing the satisfaction of our clients and the success of the
                           events we have organized.Your vision is our inspiration, and we are dedicated to making it a reality.Welcome to&nbsp;
-                          &nbsp;&nbsp;<b> REL-EVENT:</b> Rejoice, Engage, and Leave Everlasting Experiences.</p></h2>
+                          <b>REL-EVENT:</b> Rejoice, Engage, and Leave Everlasting Experiences.</p></h2>
           </div>
           <br/><br/><br/><br/>
           <div className="sqs-html-content2">
