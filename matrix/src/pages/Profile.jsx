@@ -31,7 +31,7 @@ class Profile extends React.Component{
               </soya>
             </div>
           </div>
-          <div className="alo">
+          <div className="aloo">
             <br />
             <h1 class="imp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Events</h1>
