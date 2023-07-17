@@ -28,9 +28,9 @@ color: blanchedalmond;
     }
 
 .active{
-    color:brown;
+
     text-decoration:dotted;
-    background-color: brown;
+    background-color:burlywood;
     padding: 5px;
 }
 
@@ -72,19 +72,24 @@ color: blanchedalmond;
 .j{
     background-color:black;
     color: white;
-    padding: 10px;
+    padding: 20px;
     border-radius: 15px;
     border-color: bisque;
-    /* margin-left: 200px; */
+    margin-left: 250px;
     margin-bottom: 25px;
+    align-items: center;
     cursor: pointer;
+    font-size: 25px;
+    
 }
 .button{
     background-color:bisque;
     margin-left: 400px;
     margin-right: 400px;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 15px;
+    
 }
 .container{
 

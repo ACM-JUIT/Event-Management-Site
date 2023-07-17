@@ -60,8 +60,8 @@ It was a 6-hour long online quiz competition and was a race against time in whic
   
 
 <h1 align="CENTER">WANT TO ADD YOUR OWN EVENT?</h1>
-<button className='j'>
-<Link to="/addevents"><a> ADD EVENT</a></Link></button>
+<button className='j' align="center">
+<Link to="/addevents"><a>ADD EVENT</a></Link></button>
 </div>
 <br /> <br /> <br /> <br />
 

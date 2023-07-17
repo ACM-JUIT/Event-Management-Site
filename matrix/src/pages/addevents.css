@@ -13,22 +13,7 @@
     margin-right: 500px;
     margin-bottom: 100px;
 }
-.j{
-    background-color: black;
-    color: white;
-    padding: 8px;
-    border-radius: 15px;
-    border-color: bisque;
-    margin-left: 300px;
-    margin-bottom: 25px;
-    cursor: pointer;
-}
-.button{
-    background-color:bisque;
-    margin-left: 400px;
-    margin-right: 400px;
-    border-radius: 10px;
-}
+
 .container{
 
     display: flex;
