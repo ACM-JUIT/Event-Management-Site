@@ -9,7 +9,7 @@ const navbar = () => {
     <>
         
         <nav>
-          <div><img src={logo} alt='logo' height="30px" width="230px"/></div>
+          <div><img src={logo} alt='logo' height="25px" width="230px"/></div>
           <div>
             <ul id='navbar'>
               <li><NavLink to="/" exact activeclassName="active"><a>HOME</a></NavLink></li>
