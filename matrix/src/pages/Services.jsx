@@ -7,7 +7,7 @@ const Services = (props) => {
   return (
     <>
     <Navbar/>
-  <br />
+  
  
   <div id="about">
     <p>
@@ -33,11 +33,11 @@ const Services = (props) => {
   <hr />
 
 
-  <section class="container">
-    <div class="carda">
-      <div class="card-image card1"></div>
+  <section class="containerser">
+    <div class="cardaser">
+      <div class="card-imageser card1ser"></div>
       <h2 align="center">Venue selection and booking</h2>
-      <p class="y">
+      <p class="yser">
         Finding the right venue for your event is essential, and event
         management services can help you with this. They can assess your needs
         and budget, and then provide you with a list of potential venues that
@@ -45,33 +45,33 @@ const Services = (props) => {
       </p>
     </div>
 
-    <div class="cardb">
-      <div class="card-image card2"></div>
+    <div class="cardbser">
+      <div class="card-imageser card2ser"></div>
 
       <h2 align="center">Budgeting and financing</h2>
-      <p class="y">
+      <p class="yser">
         Event planners need to carefully manage their finances throughout the
         event planning process. This includes tracking expenses, monitoring
         cash flow, and making sure that they stay on budget.
       </p>
     </div>
 
-    <div class="cardc">
-      <div class="card-image card3"></div>
+    <div class="cardcser">
+      <div class="card-imageser card3ser"></div>
 
       <h2 align="center">Logistics</h2>
-      <p class="y">
+      <p class="yser">
         Event management services can handle all the logistics of your event,
         from setting up the venue to managing the guest list. They can also
         help you with marketing and promotion,
       </p>
     </div>
   </section>
-  <section class="container">
+  <section class="containerser">
     <div class="cardd">
-      <div class="card-image card4"></div>
+      <div class="card-imageser card4"></div>
       <h2 align="center">Marketing and promotion</h2>
-      <p class="y">
+      <p class="yser">
         use of creative marketing materials and engaging promotional
         campaigns, event planners can help to generate excitement about the
         event and encourage people to attend.
@@ -79,10 +79,10 @@ const Services = (props) => {
     </div>
 
     <div class="carde">
-      <div class="card-image card5"></div>
+      <div class="card-imageser card5"></div>
 
       <h2 align="center">Event execution</h2>
-      <p class="y">
+      <p class="yser">
         This includes tasks such as venue selection, catering, entertainment,
         and logistics. The goal of execution is to ensure that the event runs
         smoothly and that the attendees have a positive experience.
@@ -90,10 +90,10 @@ const Services = (props) => {
     </div>
 
     <div class="cardf">
-      <div class="card-image card6"></div>
+      <div class="card-imageser card6"></div>
 
       <h2 align="center">Entertainment coordination</h2>
-      <p class="y">
+      <p class="yser">
         If you're planning an event with entertainment, event management
         services can help you book the right performers. They can also help
         you with sound and lighting, and they can make sure that the
