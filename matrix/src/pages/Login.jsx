@@ -31,7 +31,7 @@ class Login extends React.Component{
        <a><Link to="/Signup">Create your account</Link></a> 
          
          </p>
-      <button><Link to="/Events">Login</Link></button>
+      <button><Link to="/Profile">Login</Link></button>
     </div>
   </div>
   <br /> <br />

@@ -30,7 +30,7 @@ class Signup extends React.Component{
                 <br /><br /><br />
                 <br /><br /><br />
                 <br /><br /><br />
-                <button><Link to="/Events">Sign-up</Link></button>
+                <button><Link to="/Profile">Sign-up</Link></button>
               </div>
             </div>
             </div>
