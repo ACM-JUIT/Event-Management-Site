@@ -1,5 +1,6 @@
 import React from 'react'
 import "./style.css";
+import  logo from "./trans.png";
 import { NavLink } from "react-router-dom";
 
 
@@ -8,7 +9,7 @@ const navbar = () => {
     <>
         
         <nav>
-          <div><img src="https://yt3.googleusercontent.com/i029KiwZu6fBVs9TKufyKu6ye0xFJ0zsXCQ_00oe6NOKW4ws_8cWoNPVuawfsKahFnjZM60B4A=s900-c-k-c0x00ffffff-no-rj"  height="80px" width="150px"/></div>
+          <div><img src={logo} alt='logo' height="30px" width="230px"/></div>
           <div>
             <ul id='navbar'>
               <li><NavLink to="/" exact activeclassName="active"><a>HOME</a></NavLink></li>
