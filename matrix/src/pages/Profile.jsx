@@ -19,14 +19,17 @@ class Profile extends React.Component{
                 <a>
                   
                 
-                  <p className="hey78"> <b className="lol"> Username-&nbsp;</b>&nbsp;&nbsp;<input type="text" placeholder="Burk#abcuiuio123" /></p>
-                  <p className="hey78"> <b className="lol"> First Name-&nbsp;</b>&nbsp;<input type="text" placeholder="Burk" /></p>
-                  <p className="hey78"> <b className="lol"> Last Name-&nbsp;</b>&nbsp;&nbsp;<input type="text" placeholder="Macklin" /></p>
-                  <p className="hey78"> <b className="lol"> Roll no.-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" placeholder="2210XXXX" /></p>
-                  <p className="hey78"> <b className="lol"> E-mail-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="e-mail" placeholder="abc@gmail.com" /></p>
-                  <p className="hey78"> <b className="lol"> Phone No.-&nbsp;</b>&nbsp;&nbsp;<input type="number" placeholder="12345XXXXX" /></p>
-
-                 
+                  <p className="hey78"> <b className="lol"> Username-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Burk#abcuiuio123" /></p>
+                  <p className="hey78"> <b className="lol"> First Name-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Burk" /></p>
+                  <p className="hey78"> <b className="lol"> Last Name-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Macklin" /></p>
+                  <p className="hey78"> <b className="lol"> Father's Name-&nbsp;</b>&nbsp;&nbsp;<input type="text" placeholder="Mr.John Macklin" /></p>
+                  <p className="hey78"> <b className="lol"> Roll no.-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" placeholder="2210XXXXX" /></p>
+                  <p className="hey78"> <b className="lol"> Course-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="B.Tech." /></p>
+                  <p className="hey78"> <b className="lol"> Branch-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Computer Science" /></p>
+                  <p className="hey78"> <b className="lol"> Semester-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" placeholder="3rd" /></p>
+                  <p className="hey78"> <b className="lol"> E-mail-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="e-mail" placeholder="abc@gmail.com" /></p>
+                  <p className="hey78"> <b className="lol"> Phone No.-&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" placeholder="12345XXXXX" /></p>
+                  
                 </a>
               </soya>
             </div>
@@ -40,15 +43,15 @@ class Profile extends React.Component{
                 <div className="card-image card5" />
                 <h1 align="center">GAMING NIGHT</h1>
               
-                <p><b>&nbsp;&nbsp;DATE:</b>8th July-10th July</p>
-                <p><b>&nbsp;&nbsp;TIME:</b>10:00pm-12.00am</p>
-                <p><b>&nbsp;&nbsp;NO. OF REGISTRATIONS:</b>114</p>
-                <p><b>&nbsp;&nbsp;CHECK-INS:</b>102</p>
-                <p><b>&nbsp;&nbsp;AMOUNT PER PERSON:</b>₹60</p>
-                <p><b>&nbsp;&nbsp;COLLECTED AMOUNT:</b>₹6800</p>
-                <p><b>&nbsp;&nbsp;NO. OF FEEDBACKS:</b>71</p>
-                <p><b>&nbsp;&nbsp;MOST PARTICIPATION:</b>XYZ GAME</p>
-                <p><b>&nbsp;&nbsp;LEAST PARTICIPATION:</b>ABC GAME</p>
+                <p><b>&nbsp;&nbsp;DATE:</b><e class="smile">8th July-10th July</e></p>
+                <p><b>&nbsp;&nbsp;TIME:</b><e class="smile">10:00pm-12.00am</e></p>
+                <p><b>&nbsp;&nbsp;NO. OF REGISTRATIONS:</b><e class="se">114</e></p>
+                <p><b>&nbsp;&nbsp;CHECK-INS:</b><e class="si">102</e></p>
+                <p><b>&nbsp;&nbsp;AMOUNT PER PERSON:</b><e class="smi">₹60</e></p>
+                <p><b>&nbsp;&nbsp;COLLECTED AMOUNT:</b><e class="smi">&nbsp;₹6800</e></p>
+                <p><b>&nbsp;&nbsp;NO. OF FEEDBACKS:</b><e class="s">71</e></p>
+                <p><b>&nbsp;&nbsp;MOST PARTICIPATION:</b><e class="sm">XYZ GAME</e></p>
+                <p><b>&nbsp;&nbsp;LEAST PARTICIPATION:</b><e class="sm">ABC GAME</e></p>
                 
               </div>
             </section></div>
