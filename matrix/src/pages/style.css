@@ -31,7 +31,7 @@ color: blanchedalmond;
 
     text-decoration:dotted;
     background-color:burlywood;
-    padding: 5px;
+    padding: 10px;
 }
 
 
@@ -47,7 +47,7 @@ color: blanchedalmond;
 .imgtext2{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position:absolute;
-    top: 165%;
+    top: 170%;
     font-size: 50px;
     color:black;
     left: 20%;
@@ -70,7 +70,7 @@ color: blanchedalmond;
     color: rgba(255, 0, 191, 0.803);
 }
 .j{
-    background-color:black;
+    background-color:azure;
     color: white;
     padding: 20px;
     border-radius: 15px;
@@ -83,12 +83,13 @@ color: blanchedalmond;
     
 }
 .button{
-    background-color:bisque;
+    background-color:rgb(239, 194, 140);
     margin-left: 400px;
     margin-right: 400px;
     border-radius: 20px;
     padding: 20px;
     font-size: 15px;
+    color:aliceblue;
     
 }
 .container{
@@ -210,6 +211,8 @@ background-image: url("https://www.mobilevillage.com/wp-content/uploads/2020/06/
 a:hover{
     color:black;
     background-color:rgb(221, 156, 110);
+    padding:6px;
+    border-radius: 19px;
 }
 .h{
     background-color:rgb(249, 246, 243);
